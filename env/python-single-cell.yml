@@ -1,0 +1,15 @@
+name: python-single-cell
+channels:
+  - conda-forge
+dependencies:
+  - python 3.13.0
+  - jupyter 1.1.1
+  - pip
+  - pip:
+    - pandas
+    - numpy
+    - scipy
+    - statsmodels
+    - scikit-learn
+    - matplotlib
+    - seaborn

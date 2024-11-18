@@ -1,1 +1,4 @@
 .idea
+data/
+output/
+.DS_Store
