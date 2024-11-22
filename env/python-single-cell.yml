@@ -2,14 +2,14 @@ name: python-single-cell
 channels:
   - conda-forge
 dependencies:
-  - python 3.13.0
-  - jupyter 1.1.1
+  - python
+  - jupyter
   - pip
+  - umap-learn 0.5.7
   - pip:
     - pandas
-    - numpy
+    - numpy<=2.0
     - scipy
-    - statsmodels
-    - scikit-learn
     - matplotlib
     - seaborn
+    - scikit-learn
