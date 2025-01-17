@@ -13,3 +13,5 @@ dependencies:
     - matplotlib
     - seaborn
     - scikit-learn
+    - fastparquet
+    - scikit-bio
