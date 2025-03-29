@@ -1,0 +1,9 @@
+python>=3.6
+pandas
+fastparquet
+numpy
+scipy
+matplotlib
+seaborn
+scikit-learn
+scikit-bio
